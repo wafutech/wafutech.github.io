@@ -250,10 +250,10 @@ hr{
     <div id="splash" class="container-fluid">
       <div class="row">
         <div class="col-lg-12 text-center">
-          <h1>Hasham Babar</h1>
+          <h1>Ronald Wekesa</h1>
           <hr />
           <p>
-            Full Stack Developer / Software Test Analyst
+            Full Stack Developer / Mobile Developer
           </p>
           <p>
             <a href="https://github.com/hash004" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>
